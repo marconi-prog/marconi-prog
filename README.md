@@ -28,5 +28,5 @@ Sou uma pessoa **dedicada** que gosta de resolver problemas, focado em sempre en
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
 ## 📬 **Entre em Contato!**
-<a href="www.linkedin.com/in/marconi-farias-242933359" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "marconifariasdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<span style="white-space: nowrap;">Email: marconifariasdev@gmail.com • LinkedIn: www.linkedin.com/in/marconi-farias-524933359</span>
+
