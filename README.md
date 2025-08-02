@@ -28,5 +28,5 @@ Sou uma pessoa **dedicada**, focado em sempre envoluir profissionalmente.
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
 ## 📬 **Entre em Contato!**
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](www.linkedin.com/in/marconi-farias-242933359)
-[<img src='https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge' alt='gmail'>](marconifariasdev@gmail.com)
+<a href="www.linkedin.com/in/marconi-farias-242933359" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "marconifariasdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
