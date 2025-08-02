@@ -7,7 +7,7 @@ Sou estudante de **Sistema de Informaçao** e atualmente aprimorando meus conhec
 
 Falo **português**, **ingles** e **holandes**
 
-Sou uma pessoa **dedicada**, focado em sempre envoluir profissionalmente.
+Sou uma pessoa **dedicada** que gosta de resolver problemas, focado em sempre envoluir profissionalmente.
 
 ## 🛠 Skills
 
