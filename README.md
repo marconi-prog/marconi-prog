@@ -1,5 +1,5 @@
-<h1 align="center">Marconi Farias</h1>
-<h3 align="center">Desenvolvedor Back End</h3>
+## 👨🏻‍💻 **Marconi Farias Araujo**
+```Software Engineer | Back End```
 
 ## Sobre mim  
 
