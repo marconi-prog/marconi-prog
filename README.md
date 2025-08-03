@@ -30,3 +30,4 @@ Sou uma pessoa **dedicada** que gosta de resolver problemas, focado em sempre en
 ## 📬 **Entre em Contato!**
 <span style="white-space: nowrap;">Email: marconifariasdev@gmail.com • LinkedIn: www.linkedin.com/in/marconidev2519</span>
 
+
