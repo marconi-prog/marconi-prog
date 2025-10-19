@@ -1,4 +1,4 @@
-## 👨🏻‍💻 **Marconi Farias Araujo**
+## **Marconi Farias Araujo**
 ```Software Engineer | Back End```
 
 I'm a software developer passionate about learning and constant improvement. My main focus is on writing clean, reusable code and collaborating with others. Currently focused on building my back-end development skills and creating practical solutions to real-world problems.
