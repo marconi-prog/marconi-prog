@@ -1,7 +1,11 @@
 ## **Marconi Farias Araujo**
 ```Software Engineer | Back End```
 
-I'm a software developer passionate about learning and constant improvement. My main focus is on writing clean, reusable code and collaborating with others. Currently focused on building my back-end development skills and creating practical solutions to real-world problems.
+I'm a software developer passionate about learning, clean code, and building efficient back-end solutions.
+My main focus is on Java and Python development, API design, and database management.
+I enjoy working on real-world projects, collaborating with others, and constantly improving my skills.
+
+💡 Currently improving my back-end stack with frameworks like Django and Spring Boot, and exploring DevOps tools such as Docker and PostgreSQL.
 
 ---
 
