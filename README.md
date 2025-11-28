@@ -2,10 +2,10 @@
 ```Software Engineer | Back End```
 
 I'm a software developer passionate about learning, clean code, and building efficient back-end solutions.
-My main focus is on Java and Python development, API design, and database management.
+My main focus is on Java and C# development, API design, and database management.
 I enjoy working on real-world projects, collaborating with others, and constantly improving my skills.
 
-Currently improving my back-end stack with frameworks like Django and Spring Boot, and exploring DevOps tools such as Docker and PostgreSQL.
+Currently improving my back-end stack with frameworks like Spring boot and Hibernate.
 
 ---
 
