@@ -5,7 +5,7 @@ I'm a software developer passionate about learning, clean code, and building eff
 My main focus is on Java and C# development, API design, and database management.
 I enjoy working on real-world projects, collaborating with others, and constantly improving my skills.
 
-Currently improving my back-end stack with frameworks like Spring boot and Hibernate.
+Currently improving my back-end stack with frameworks like Spring boot and .NET.
 
 ---
 
