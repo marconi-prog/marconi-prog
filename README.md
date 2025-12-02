@@ -10,4 +10,4 @@ Currently improving my back-end stack with frameworks like Spring boot and .NET
 ---
 
 ###  Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=angular,java,hibernate,spring,maven,linux,github,postgres,mysql,vscode,eclipse,aws,googlecloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,hibernate,spring,maven,linux,github,postgres,mysql,vscode,eclipse,aws,googlecloud)](https://skillicons.dev)
