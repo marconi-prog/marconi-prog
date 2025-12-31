@@ -1,11 +1,9 @@
 ## **Marconi Farias Araujo**
 ```Software Engineer | Back End```
 
-I'm a software developer passionate about learning, clean code, and building efficient back-end solutions.
-My main focus is on Java and C# development, API design, and database management.
-I enjoy working on real-world projects, collaborating with others, and constantly improving my skills.
+I am a software engineer focused on designing and building robust, scalable, and maintainable back-end systems. My core expertise is in Java and C#, with strong experience in API design, database modeling, and server-side architecture. I actively work on open-source projects, collaborating with distributed teams and following best practices such as clean code, SOLID principles, and version control. 
 
-Currently improving my back-end stack with frameworks like Spring boot and .NET
+Currently, I am deepening my knowledge of Spring Boot and .NET, aiming to deliver high-quality, production-ready solutions and continuously improve my engineering skills.
 
 ---
 
