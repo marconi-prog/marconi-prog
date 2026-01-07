@@ -8,4 +8,4 @@ Currently, I am deepening my knowledge of Spring Boot and .NET, aiming to delive
 ---
 
 ###  Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,hibernate,spring,maven,linux,github,postgres,mysql,idea,vscode,aws,googlecloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,hibernate,spring,maven,linux,github,postgres,mysql,idea,vscode,androidstudio,aws,googlecloud)](https://skillicons.dev)
