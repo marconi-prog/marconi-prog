@@ -8,4 +8,4 @@ I actively contribute to open-source projects, collaborate with distributed team
 ---
 
 ###  Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,hibernate,spring,maven,linux,github,postgres,mysql,idea,vscode,androidstudio,aws,googlecloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,hibernate,spring,maven,linux,github,postgres,mysql,idea,vscode,androidstudio,aws)](https://skillicons.dev)
