@@ -3,5 +3,5 @@ Backend Software Engineer focused on designing scalable and secure systems using
 
 Strong experience with REST APIs, relational databases, JPA/Hibernate, Docker, and clean architecture principles, always aiming for maintainable, testable, and production-ready code.
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,kotlin,cs,hibernate,spring,maven,gradle,linux,github,git,postgres,mysql,mongodb,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,kotlin,hibernate,spring,maven,gradle,linux,github,git,postgres,mysql,mongodb,aws)](https://skillicons.dev)
 
