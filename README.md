@@ -2,9 +2,9 @@
 ---
 ```Software Engineer```
 
-Backend Software Engineer focused on designing scalable and secure systems using Java, Go, Python, Spring Boot, and AWS.
+Backend & DevSecOps Engineer building APIs and cloud infrastructure with Java, Spring Boot, Go, Python, and Rust.
 
-Strong experience with REST APIs, relational databases, JPA/Hibernate, Docker, and clean architecture principles, always aiming for maintainable, testable, and production-ready code.
+Experienced with REST APIs, relational databases (PostgreSQL, Oracle, MySQL), RabbitMQ, Docker, Terraform, CI/CD pipelines, AWS, and Azure. I care about clean architecture, security across the delivery pipeline, and code that's maintainable, tested, and ready for production.
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,go,rust,react,spring,hibernate,fastapi,aws,azure,terraform)](https://skillicons.dev)
 
