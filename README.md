@@ -2,9 +2,10 @@
 ---
 ```Software Engineer```
 
-Backend & DevSecOps Engineer building APIs and cloud infrastructure with Java, Spring Boot, Go, Python, and Rust.
+Backend & DevSecOps Engineer building APIs, cloud infrastructure, and machine learning solutions with Java, Spring Boot, Go, Python, R, and MATLAB.
+Experienced with REST APIs, relational databases (PostgreSQL, Oracle, MySQL), RabbitMQ, Docker, Terraform, CI/CD pipelines, AWS, and Azure. 
 
-Experienced with REST APIs, relational databases (PostgreSQL, Oracle, MySQL), RabbitMQ, Docker, Terraform, CI/CD pipelines, AWS, and Azure. I care about clean architecture, security across the delivery pipeline, and code that's maintainable, tested, and ready for production.
+I care about clean architecture, security across the delivery pipeline, and code that's maintainable, tested, and ready for production.
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,go,react,spring,hibernate,fastapi,aws,azure,gcp,terraform,kubernetes,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,r,matlab,go,react,spring,hibernate,fastapi,aws,azure,gcp,terraform,kubernetes,rabbitmq)](https://skillicons.dev)
 
